@@ -1,1 +1,2 @@
-membuat hello world supaya error
+hello world saja
+hello world yang dilakukan supaya conflick
